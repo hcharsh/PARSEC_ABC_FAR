@@ -23,7 +23,7 @@ This folder has the template.
 4. PARSEC - Folder containing codes to perform clustering and design selection.
 5. design_evaluation - Folder containing codes to evaluate designs.
 
-### Files and folders created during execution
+### Files and folders created during execution (Default names)
 1. GT_val.mat - Parameter values used for training and testing
 2. TSA_full_*.mat - Data files storing results of sensititivity analysis.
 3. data_set_* - Folder containing the excel sheet(s) describing the designs used in the analysis.
