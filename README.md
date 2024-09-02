@@ -16,9 +16,11 @@ This folder has a solved/implemented example.
 This folder has the template.
 
 ## Contents of the last two folders:
-1. designing_experiments.mlx - A live script to be executed. (Requires changes according to the problem statement)
+### Files/folder in the template
+1. ### designing_experiments.mlx - A live script to be executed. (Requires changes according to the problem statement)
 2. model_system.m - The file where the model is to be written. (Requires changes based on model equations)
 3. TSA - Folder containing codes to perform Sensitivity analysis.
 4. PARSEC - Folder containing codes to perform clustering and design selection.
 5. design_evaluation - Folder containing codes to evaluate designs.
 
+### Files and folders created during execution
