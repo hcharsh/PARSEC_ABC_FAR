@@ -7,6 +7,9 @@ Problem statement (copied from the article): "We explore the dynamics of a three
 We compare the designs using ABC-FAR to identify the most informative ones.
 Labels for the designs: SSD, SRD and W1SD denote the PARSEC, random and anti-PARSEC designs respectively.
 
+### functions_ABC_FAR should be downloaded and kept in the same directory as the PARSEC_template (or PARSEC_eg_Represilator).
+### The file to be executed is designing_experiments.mlx (provided in PARSEC_template and PARSEC_eg_Represilator) from its location.
+
 ## functions_ABC_FAR
 This folder contains the codes for parameter estimation
 
@@ -17,7 +20,7 @@ This folder has the template.
 
 ## Contents of the last two folders:
 ### Files/folder in the template
-1. #### designing_experiments.mlx - A live script to be executed. (Requires changes according to the problem statement)
+1. **designing_experiments.mlx - A live script to be executed.** (Requires changes according to the problem statement; you can change the number of experiments to consider, the sample size and so on)
 2. model_system.m - The file where the model is to be written. (Requires changes based on model equations)
 3. TSA - Folder containing codes to perform Sensitivity analysis.
 4. PARSEC - Folder containing codes to perform clustering and design selection.
